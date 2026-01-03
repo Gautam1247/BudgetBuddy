@@ -1,16 +1,30 @@
-# budgetbuddy
+# 💸 BudgetBuddy (Expense Tracker App) 
 
-A new Flutter project.
+A simple, modern **Expense Tracker application built using Flutter** that allows users to add, view, and manage daily expenses.  
+This project demonstrates **Flutter fundamentals**, clean UI design, and basic state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add new expenses with title, amount, date, and category
+- View all expenses in a list
+- Delete expenses with undo option
+- Responsive UI
+- Light & Dark theme support
+- Clean Material Design interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies Used
+
+- **Flutter**
+- **Dart**
+- **Material UI**
+- **Widgets & State Management**
+- **Date Picker & Dialogs**
+
+---
+
+## 📂 Project Structure
+
